@@ -1,0 +1,9 @@
+keyboard: 43 Tabs to "Sync settings", Enter opens dialog, 1 Tabs to provider, Enter/ArrowDown/Enter selects AllRatesToday; next Tab -> INPUT#publicationValidityHours ; Save via Enter; dialog open after save=false; notice shown=true
+en-US-light-desktop: notice right=1267 viewport=1280 docScrollW=1280; AllRatesToday dialog apiKey=false validity=true dialogRight=896 scrollW=510 clientW=510; exchangerate.host dialog apiKey=true validity=false
+en-US-light-mobile: notice right=354 viewport=390 docScrollW=390; AllRatesToday dialog apiKey=false validity=true dialogRight=374 scrollW=356 clientW=356; exchangerate.host dialog apiKey=true validity=false
+en-US-dark-desktop: notice right=1267 viewport=1280 docScrollW=1280; AllRatesToday dialog apiKey=false validity=true dialogRight=896 scrollW=510 clientW=510; exchangerate.host dialog apiKey=true validity=false
+en-US-dark-mobile: notice right=354 viewport=390 docScrollW=390; AllRatesToday dialog apiKey=false validity=true dialogRight=374 scrollW=356 clientW=356; exchangerate.host dialog apiKey=true validity=false
+zh-CN-light-desktop: notice right=1248 viewport=1280 docScrollW=1280; AllRatesToday dialog apiKey=false validity=true dialogRight=896 scrollW=510 clientW=510; exchangerate.host dialog apiKey=true validity=false
+zh-CN-light-mobile: notice right=354 viewport=390 docScrollW=390; AllRatesToday dialog apiKey=false validity=true dialogRight=374 scrollW=356 clientW=356; exchangerate.host dialog apiKey=true validity=false
+zh-CN-dark-desktop: notice right=1248 viewport=1280 docScrollW=1280; AllRatesToday dialog apiKey=false validity=true dialogRight=896 scrollW=510 clientW=510; exchangerate.host dialog apiKey=true validity=false
+zh-CN-dark-mobile: notice right=354 viewport=390 docScrollW=390; AllRatesToday dialog apiKey=false validity=true dialogRight=374 scrollW=356 clientW=356; exchangerate.host dialog apiKey=true validity=false
